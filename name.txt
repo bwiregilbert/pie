@@ -1,0 +1,2 @@
+hello,world!
+This is how to handle errors in file handling without allowing the program to crush.
